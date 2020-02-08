@@ -12,6 +12,12 @@ the Prerequisites section for installation.
 For this app, you need node.js. To avoid downloading a seperate package manager in order to  
 install node.js, just navigate to [their website](https://nodejs.org/en/) and download it there
 
+## Usage
+Use the help option for information on how to use the app
+```
+node app.js --help
+```
+
 ## Built With
 
 * [node.js](https://nodejs.org/en/)
