@@ -19,4 +19,4 @@ install node.js, just navigate to [their website](https://nodejs.org/en/) and do
 
 ## Authors
 
-* **Nick Matthews** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Nick Matthews**
