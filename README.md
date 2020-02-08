@@ -1,14 +1,22 @@
-# weather_web_app
-node.js command line app that uses Dark Sky API to give you weather information
+# Simple Weather Web App
 
-## Usage
-app.js [command]
+This web app can gather basic weather information given a specified location
 
-Commands:  
-  app.js sum -> gather general weather information about a location  
-  options:  
-    1) --location of any address on earth (ex. --location="Ames, Iowa")  
+## Getting Started
 
-Options:  
-  --help     Show help
-  --version  Show version number
+All dependencies are handled using the npm package manager. If you don't have npm or node.js, see  
+the Prerequisites section for installation.
+
+### Installing
+
+For this app, you need node.js. To avoid downloading a seperate package manager in order to  
+install node.js, just navigate to [their website](https://nodejs.org/en/) and download it there
+
+## Built With
+
+* [node.js](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/) - Dependency Management
+
+## Authors
+
+* **Nick Matthews** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
